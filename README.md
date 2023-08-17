@@ -1,4 +1,6 @@
-# SquidCache
+# Squid
+>Squid is a caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages. 
+
 Home: http://www.squid-cache.org/
 
 wiki:
